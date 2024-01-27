@@ -4,6 +4,6 @@ Converts Markdown text into CommonDoc nodes and vice versa.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/40ants/commondoc-markdown.git |
-| commit  | 7dfea7f                                              |
+| commit  | 7b4107d                                              |
 | systems | commondoc-markdown                                   |
 |---------+------------------------------------------------------|
